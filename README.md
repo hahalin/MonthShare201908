@@ -60,6 +60,7 @@
 ## ToDo
 
 1. Edit and Delete
-2. 使用express取代handler內各function設定Path
-3. 使用JWT設計Token based authenication
-4. 設計APP(iOS,Android)呼叫Lambda建構的API
+2. Dashbird實際使用
+3. 使用express取代handler內各function設定Path
+4. 使用JWT設計Token based authenication
+5. 設計APP(iOS,Android)呼叫Lambda建構的API
