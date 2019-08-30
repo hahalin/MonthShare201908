@@ -54,13 +54,15 @@
 ```
 
 
-
-
 ## 實機Demo
+
+1. Nodejs
+2. React
 
 ## 參考資料
 1. https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44
 2. https://www.programmableweb.com/news/how-to-build-serverless-rest-api-nodejs-and-mongodb/how-to/2018/07/15
+3. https://medium.com/hackernoon/how-to-deploy-a-node-js-application-to-aws-lambda-using-serverless-ae7e7ebe0996
 
 ## ToDo
 
