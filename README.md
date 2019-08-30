@@ -58,6 +58,10 @@
 
 ## 實機Demo
 
+## 參考資料
+1. https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44
+2. https://www.programmableweb.com/news/how-to-build-serverless-rest-api-nodejs-and-mongodb/how-to/2018/07/15
+
 ## ToDo
 
 1. Edit and Delete
