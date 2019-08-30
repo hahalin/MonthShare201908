@@ -56,8 +56,8 @@
 
 ## 實機Demo
 
-1. Nodejs
-2. React
+1. Nodejs Project
+2. React Project
 
 ## 參考資料
 1. https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44
