@@ -18,8 +18,8 @@
 1. AWS Account
 2. Node.js+npm
 3. tool
-⋅⋅⋅* Serverless Framework
-⋅⋅⋅* Dashbird account
+  * Serverless Framework
+  *  Dashbird account
 
 ## serverless framework
 
