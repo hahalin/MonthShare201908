@@ -15,11 +15,12 @@
 這張我畫的
 
 ## 預先準備
+
 1. AWS Account
 2. Node.js+npm
 3. tool
-  * Serverless Framework
-  *  Dashbird account
+  - Serverless Framework
+  - Dashbird account
 
 ## serverless framework
 
@@ -28,5 +29,30 @@
 ```javascript
   npm install -g serverless
 ```
+### 設定AWS帳號
+
+```javascript
+  serverless config credentials --provider aws --key YOUR_ACCESS_KEY --secret YOUR_SECRET_KEY
+```
+### 使用AWS樣板建立專案
+
+```javascript
+  sls create -t aws-nodejs -p YourProjectName
+```
+### Client測試模式設定
+
+```javascript
+  npm install --save-dev serverless-offline
+  npm i --save mongoose dotenv  
+  sls offline start
+```
+### 發佈
+
+```javascript
+  sls deploy
+```
+
+
+
 
 ## 實機Demo
